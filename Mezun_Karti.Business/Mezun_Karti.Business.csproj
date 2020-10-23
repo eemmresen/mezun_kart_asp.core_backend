@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mezun_Karti.DataAccess\Mezun_Karti.DataAccess.csproj" />
+    <ProjectReference Include="..\Mezun_Karti.Entities\Mezun_Karti.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
