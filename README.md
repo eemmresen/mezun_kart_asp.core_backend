@@ -1,0 +1,1 @@
+# mezun_kart_asp.core_backend
