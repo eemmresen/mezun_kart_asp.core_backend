@@ -1,0 +1,9 @@
+C:\Users\sunay\Desktop\Mezun_Karti\Mezun_Karti.Entities\bin\Debug\netcoreapp3.1\Mezun_Karti.Entities.deps.json
+C:\Users\sunay\Desktop\Mezun_Karti\Mezun_Karti.Entities\bin\Debug\netcoreapp3.1\Mezun_Karti.Entities.dll
+C:\Users\sunay\Desktop\Mezun_Karti\Mezun_Karti.Entities\bin\Debug\netcoreapp3.1\Mezun_Karti.Entities.pdb
+C:\Users\sunay\Desktop\Mezun_Karti\Mezun_Karti.Entities\obj\Debug\netcoreapp3.1\Mezun_Karti.Entities.csprojAssemblyReference.cache
+C:\Users\sunay\Desktop\Mezun_Karti\Mezun_Karti.Entities\obj\Debug\netcoreapp3.1\Mezun_Karti.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sunay\Desktop\Mezun_Karti\Mezun_Karti.Entities\obj\Debug\netcoreapp3.1\Mezun_Karti.Entities.AssemblyInfoInputs.cache
+C:\Users\sunay\Desktop\Mezun_Karti\Mezun_Karti.Entities\obj\Debug\netcoreapp3.1\Mezun_Karti.Entities.AssemblyInfo.cs
+C:\Users\sunay\Desktop\Mezun_Karti\Mezun_Karti.Entities\obj\Debug\netcoreapp3.1\Mezun_Karti.Entities.dll
+C:\Users\sunay\Desktop\Mezun_Karti\Mezun_Karti.Entities\obj\Debug\netcoreapp3.1\Mezun_Karti.Entities.pdb
